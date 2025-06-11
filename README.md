@@ -115,7 +115,7 @@ Edit
 ├── Program.cs
 ├── appsettings.json
 └── ChairManagementSystem.csproj
-🧪 Testing
+Testing
 Manual Testing:
 Every feature was tested locally multiple times:
 
