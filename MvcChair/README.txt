@@ -138,3 +138,5 @@ created a new git hub link and it is working perfectly
 2000
 and also added the migration 
 2006
+2107
+Deployed to Azure
