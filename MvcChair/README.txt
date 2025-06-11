@@ -138,6 +138,5 @@ created a new git hub link and it is working perfectly
 2000
 and also added the migration 
 2006
-We still got stuck on the error 500 in azure 
-2229
-not working proprely
+2107
+Deployed to Azure
